@@ -1,5 +1,5 @@
 # Spring-Boot---Distributed-System
-An distributed system for fill in an application to create an agricultural cooperative and an employee approve or reject the application. Also, admin set up roles, update users etc. Use of Spring Boot, spring security (JWT), Vue.js - frontend, use of SQLite for db. RestControllers in backend for the correct use of communication with the front end.
+An distributed system for fill in an application to create an agricultural cooperative and an employee approve or reject the application. Also, admin set up roles, update users etc. Use of Spring Boot, spring security (JWT), Vue.js - frontend, use of SQLite for db. RestControllers in backend for the correct use of communication with the frontend.
 [Video_DS_Project.webm](https://github.com/Panos994/Spring-Boot---Distributed-System/assets/118283261/7e0894f6-0bf2-4aa1-a05d-e9d6ad76b2cc)
 <img width="858" alt="16 02 2024_17 16 38_REC" src="https://github.com/Panos994/Spring-Boot---Distributed-System/assets/118283261/9010ead0-7f92-466d-baef-05dec836b122">
 <img width="854" alt="16 02 2024_17 16 56_REC" src="https://github.com/Panos994/Spring-Boot---Distributed-System/assets/118283261/969314bc-3265-4afc-a650-c138248c2c3f">

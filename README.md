@@ -1,5 +1,28 @@
 # Spring-Boot---Distributed-System
-An distributed system for fill in an application to create an agricultural cooperative and an employee approve or reject the application. Also, admin set up roles, update users etc. Use of Spring Boot, spring security (JWT), Vue.js - frontend, use of SQLite for db. RestControllers in backend for the correct use of communication with the frontend.
+
+
+## Overview
+A distributed system for submitting applications to create an agricultural cooperative. Employees can approve or reject applications, while administrators manage roles, update users, and configure the system.
+
+## Features
+- **Application Management:** Users submit applications for agricultural cooperatives.
+- **Employee Actions:** Employees review and approve/reject applications.
+- **Admin Panel:** Admins can manage roles, update users, and oversee the system.
+- **Authentication & Security:** Implemented using Spring Security with JWT authentication.
+- **REST API:** Backend exposes REST endpoints for seamless communication with the frontend.
+
+## Tech Stack
+- **Backend:** Spring Boot, Spring Security (JWT)
+- **Frontend:** Vue.js
+- **Database:** SQLite
+- **API Communication:** REST Controllers in the backend
+
+## Setup Instructions
+### Backend
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo-url.git
+
 [Video_DS_Project.webm](https://github.com/Panos994/Spring-Boot---Distributed-System/assets/118283261/7e0894f6-0bf2-4aa1-a05d-e9d6ad76b2cc)
 <img width="858" alt="16 02 2024_17 16 38_REC" src="https://github.com/Panos994/Spring-Boot---Distributed-System/assets/118283261/9010ead0-7f92-466d-baef-05dec836b122">
 <img width="854" alt="16 02 2024_17 16 56_REC" src="https://github.com/Panos994/Spring-Boot---Distributed-System/assets/118283261/969314bc-3265-4afc-a650-c138248c2c3f">
